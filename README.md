@@ -1,5 +1,2 @@
-    xi is a tuple of x values eg. xi=(0,2/3,1)
-    yi is a tuple of y values eg  yi=(1,0.5,0)
-    Find polynomial inerpolation for these points.
-    Problem1: Newton's divided difference
-    Problem2: Lagrange
+Let f = x^6, find f'(2) with Richardson interpolation N=2.
+Note that analytical solution is 192
